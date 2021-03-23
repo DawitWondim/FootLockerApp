@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/dawitwondim/Desktop/ReactandSpring/footlocker-app/FootLockerApp/.metadata/.plugins/org.eclipse.jdt.core
+3418561240.index
