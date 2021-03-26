@@ -47,4 +47,13 @@ public class User {
                 ", isOwner=" + isOwner +
                 '}';
     }
+
+	public User(String password, String email, String first_name, String last_name, boolean isOwner) {
+		super();
+		this.password = password;
+		this.email = email;
+		this.first_name = first_name;
+		this.last_name = last_name;
+		this.isOwner = isOwner;
+	}
 }
